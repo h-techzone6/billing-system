@@ -2,6 +2,10 @@
 
 Billing Software is a Python GUI project using Ttk Bootstrap.
 
+## Screenshots
+
+![App Screenshot](Screenshot.PNG)
+
 ## Installation ✨
 
 Use the package manager [pip](https://pypi.org/project/ttkbootstrap/) to install ttkbootstrap.
